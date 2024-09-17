@@ -1,0 +1,43 @@
+Data Structures (ARRAY)
+
+we can divide ds into two categories
+
+linear and non linear
+
+LINEAR DS
+In linear ds, the elements form a sequence
+sequence can be formed in two ways
+1. The elements of the ds are stored in sequential memory address (Arrays).
+2. The elements of the ds have linear relationship between others by means of pointers (Linked List).
+
+ARRAYS
+------
+
+Arrays are linear ds, which stores finite number of similar elements.
+
+finite -> fixed size
+similar -> homogenous (Same data type)
+
+Array Declaration
+-----------------
+
+int rollno[5] -> if decalred globally (initialized with 0), if declared locally initialized with garbage values.
+
+int rollno[] = {1,2,3,4,5} compiler automatically calculates the size of array.
+
+int rollno[5] = {1,2} first two elements initialized, remaining garbage or 0 based on scope.
+
+int rollno[5] = {0} initializes all elements to 0.
+
+
+2-D ARRAYS
+----------
+
+int class[2][5] two rows 5 cols
+
+(Everything is linear in memory, so memory representation of 2d array would be base don row-major or column-major arrangement -> C accepts row major only , Pascal accepts Column major)
+
+To find address of an element a[i][j] in a[m][n] matrix -> base address + i*n +j
+
+for column major arrangement -> base address + j*n +j
+
