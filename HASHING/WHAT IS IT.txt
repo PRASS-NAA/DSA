@@ -1,0 +1,68 @@
+if suppose u have the calculate the frequency of elements in an array... you have to run a for loop for every element ehich will take linear time.
+
+we use a method called hashing ->(precompute and fetch)
+
+we can use array to represent hash ds (but the disdavtage is the size of hash array ->globally declared means size can be upto 10^7 (inside function its 10^6)
+
+
+so we use stl map or unordered_map -> use un map because its best and average complexity is 0(1) and v rarely worst case 0(N) and for map its log N best and average and N for worst
+
+unordered_map<int,int>mpp;
+
+for(i=0;i<arr.size;i++)
+{
+	mpp[arr[i]] +=1
+}
+
+for(auto it:mpp)
+{
+	cout<<it.first << it.second
+}
+
+
+Hashing is a technique used in data structures that efficiently stores and retrieves data in a way that allows for quick access. It involves mapping data to a specific index in a hash table using a hash function that enables fast retrieval of information based on its key. 
+we can achieve all three operations (search, insert and delete) in O(1) time on average.
+
+
+Hashing is a technique used in data structures to store and retrieve data efficiently. It involves using a hash function to map data items to a fixed-size array which is called a hash table. Below are basic terminologies in hashing.
+
+Hash Function: You provide your data items into the hash function.
+Hash Code: The hash function crunches the data and give a unique hash code. This hash code is typically integer value that can be used an index.
+Hash Table: The hash code then points you to a specific location within the hash table.
+
+
+Common hash functions include:
+
+Division Method: Key % Hash Table Size
+Multiplication Method: (Key * Constant) % Hash Table Size
+Universal Hashing: A family of hash functions designed to minimize collisions
+
+What is a Hash Collision?
+A hash collision occurs when two different keys map to the same index in a hash table. This can happen even with a good hash function, especially if the hash table is full or the keys are similar.
+
+Causes of Hash Collisions:
+
+Poor Hash Function: A hash function that does not distribute keys evenly across the hash table can lead to more collisions.
+High Load Factor: A high load factor (ratio of keys to hash table size) increases the probability of collisions.
+Similar Keys: Keys that are similar in value or structure are more likely to collide.
+
+Collision Resolution Techniques
+There are two types of collision resolution techniques:
+
+Open Addressing:
+Linear Probing: Search for an empty slot sequentially
+Quadratic Probing: Search for an empty slot using a quadratic function
+Closed Addressing:
+Chaining: Store colliding keys in a linked list or binary search tree at each index
+
+
+interestig tip
+
+if suppose mpp = {2:2,3:2,4:1}
+
+for(i=0;i<n;i++)
+{
+	cout<<mpp[i]; 
+}
+
+0,0,2,2,1.... (if I not key ...it kind of initializes to 0)
