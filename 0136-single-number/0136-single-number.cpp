@@ -1,22 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int,int>mpp;
-        int ans;
-
-        for(int i=0;i<nums.size();i++)
+        int x =0;
+        for(int i =0;i<nums.size();i++)
         {
-            mpp[nums[i]]++;
+            int  y = nums[i];
+            x = x^y;
         }
-
-        for(auto it:mpp)
-        {
-            if(it.second == 1)
-            {
-                ans = it.first;
-            }
-        }
-
-        return ans;
+        return x;
     }
 };
