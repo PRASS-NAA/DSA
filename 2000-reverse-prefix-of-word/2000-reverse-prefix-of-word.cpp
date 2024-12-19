@@ -21,7 +21,7 @@ public:
         int k = endpos;
         for(int i =1;i<=howmanytime;i++)
         {
-            int temp = word[j];
+            char temp = word[j];
             word[j] =  word[k];
             word[k] = temp;
             j++;
