@@ -7,7 +7,7 @@ public:
         int odd = 0;
         int first = 1;
 
-        for(int i =0;i<s.size();i++)
+        for(int i =0;i<s.length();i++)
         {
             mpp[s[i]]++;
         }
