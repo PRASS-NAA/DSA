@@ -15,6 +15,7 @@ public:
             if(it.second > percent)
             {
                 element = it.first;
+                break;
             }
         }
 
