@@ -3,10 +3,11 @@ public:
     int longestPalindrome(string s) {
         map<char,int>mpp;
         int evencount = 0;
-        int maxodd = 0;
-        int odd = 0;
 
-        for(int i =0;i<s.length();i++)
+        int odd = 0;
+        int first = 1;
+
+        for(int i =0;i<s.size();i++)
         {
             mpp[s[i]]++;
         }
@@ -17,15 +18,16 @@ public:
             {
                 evencount += it.second;
             }else{
-                if(it.second > maxodd)
+                if(first == 1)
                 {
-                    maxodd = it.second;
+                    odd+= it.second;
+                    first = 0;
                 }else{
-                    odd += it.second-1;
+                    odd = odd + (it.second-1);
                 }
             }
         }
 
-        return evencount+maxodd+odd;
+        return evencount+odd;
     }
 };
