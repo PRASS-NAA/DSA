@@ -21,7 +21,7 @@ public:
             swap(s[start],s[j]);
             steps += j-start;
             start++;
-            while(s[start] != '1' && start < j)
+            while(s[start] == '1' && start < j)
             {
                 start++;
             }
