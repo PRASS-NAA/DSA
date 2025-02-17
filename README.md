@@ -1,5 +1,6 @@
 my dsa practice
-didnt do anythign tdy sorry
+didnt do anythign tdy sorry,exams this whole week
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
