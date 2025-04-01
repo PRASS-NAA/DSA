@@ -35,22 +35,26 @@ didnt do anythign tdy sorry,exams this whole week
 | [0100-same-tree](https://github.com/PRASS-NAA/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRASS-NAA/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PRASS-NAA/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRASS-NAA/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PRASS-NAA/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRASS-NAA/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PRASS-NAA/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRASS-NAA/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
