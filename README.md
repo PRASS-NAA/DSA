@@ -38,6 +38,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRASS-NAA/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRASS-NAA/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRASS-NAA/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,8 +67,10 @@ didnt do anythign tdy sorry,exams this whole week
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRASS-NAA/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PRASS-NAA/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
