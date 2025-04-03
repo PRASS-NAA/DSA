@@ -73,4 +73,8 @@ didnt do anythign tdy sorry,exams this whole week
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PRASS-NAA/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/PRASS-NAA/DSA/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
