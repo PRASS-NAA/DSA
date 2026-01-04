@@ -80,10 +80,12 @@ didnt do anythign tdy sorry,exams this whole week
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PRASS-NAA/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PRASS-NAA/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -92,5 +94,6 @@ didnt do anythign tdy sorry,exams this whole week
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PRASS-NAA/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
