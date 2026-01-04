@@ -77,4 +77,20 @@ didnt do anythign tdy sorry,exams this whole week
 |  |
 | ------- |
 | [2127-employees-whose-manager-left-the-company](https://github.com/PRASS-NAA/DSA/tree/master/2127-employees-whose-manager-left-the-company) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
