@@ -10,6 +10,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0001-two-sum](https://github.com/PRASS-NAA/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRASS-NAA/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRASS-NAA/DSA/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/PRASS-NAA/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Design
@@ -25,6 +26,7 @@ didnt do anythign tdy sorry,exams this whole week
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASS-NAA/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -105,4 +107,16 @@ didnt do anythign tdy sorry,exams this whole week
 | ------- |
 | [0070-climbing-stairs](https://github.com/PRASS-NAA/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
