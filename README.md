@@ -13,6 +13,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/PRASS-NAA/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/PRASS-NAA/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
@@ -28,6 +29,7 @@ didnt do anythign tdy sorry,exams this whole week
 | ------- |
 | [0001-two-sum](https://github.com/PRASS-NAA/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -117,6 +119,7 @@ didnt do anythign tdy sorry,exams this whole week
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
 | ------- |
