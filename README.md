@@ -7,6 +7,7 @@ didnt do anythign tdy sorry,exams this whole week
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PRASS-NAA/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRASS-NAA/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRASS-NAA/DSA/tree/master/0035-search-insert-position) |
 | [0303-range-sum-query-immutable](https://github.com/PRASS-NAA/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -23,6 +24,7 @@ didnt do anythign tdy sorry,exams this whole week
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PRASS-NAA/DSA/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
