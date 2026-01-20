@@ -19,7 +19,7 @@ class Solution:
             if not self.flag:
                 self.hasPathSum(root.right, targetSum)
 
-            if root.right is None and root.left is None and not self.flag:
+            if root.right is None and root.left is None:
                 if targetSum== 0:
                     self.flag = True
                 else:
