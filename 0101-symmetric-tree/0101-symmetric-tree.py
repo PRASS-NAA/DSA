@@ -6,21 +6,33 @@
 #         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        if not root:
-            return True
-        ans = self.checkValid(root.left, root.right)
 
-        return ans
+        self.ans = True
 
-
-    def checkValid(self,left,right):
-        if not left and not right:
+        if root is None:
             return True
 
-        if not left or not right:
-            return False
+        curr1 = root.left
+        curr2 = root.right    
 
-        if left.val != right.val:
-            return False   
+        self.helper(curr1,curr2)
 
-        return self.checkValid(left.left, right.right) and self.checkValid(left.right, right.left)                
+        return self.ans
+
+
+    def helper(self,leftr,rightr):
+
+        if leftr is None and rightr is None:
+            return
+
+        if leftr is None and rightr is not None or leftr is not None and rightr is None:
+            self.ans = False
+            return    
+
+        if leftr.val != rightr.val:
+            self.ans = False
+
+        self.helper(leftr.left, rightr.right)
+        self.helper(leftr.right, rightr.left)        
+                
+        
