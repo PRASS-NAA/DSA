@@ -31,6 +31,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0226-invert-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0226-invert-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +74,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0226-invert-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -83,6 +87,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0199-binary-tree-right-side-view](https://github.com/PRASS-NAA/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0226-invert-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PRASS-NAA/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -120,6 +125,7 @@ didnt do anythign tdy sorry,exams this whole week
 | ------- |
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
