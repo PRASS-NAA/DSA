@@ -10,6 +10,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0001-two-sum](https://github.com/PRASS-NAA/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRASS-NAA/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRASS-NAA/DSA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/PRASS-NAA/DSA/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/PRASS-NAA/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/PRASS-NAA/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -138,4 +139,12 @@ didnt do anythign tdy sorry,exams this whole week
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PRASS-NAA/DSA/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/PRASS-NAA/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/PRASS-NAA/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
