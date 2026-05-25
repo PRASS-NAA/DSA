@@ -10,6 +10,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0001-two-sum](https://github.com/PRASS-NAA/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRASS-NAA/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRASS-NAA/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/PRASS-NAA/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PRASS-NAA/DSA/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/PRASS-NAA/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -101,6 +102,7 @@ didnt do anythign tdy sorry,exams this whole week
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PRASS-NAA/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/PRASS-NAA/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PRASS-NAA/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -142,6 +144,7 @@ didnt do anythign tdy sorry,exams this whole week
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PRASS-NAA/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PRASS-NAA/DSA/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
