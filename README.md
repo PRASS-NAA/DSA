@@ -17,6 +17,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0303-range-sum-query-immutable](https://github.com/PRASS-NAA/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/PRASS-NAA/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
@@ -150,4 +151,8 @@ didnt do anythign tdy sorry,exams this whole week
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PRASS-NAA/DSA/tree/master/0054-spiral-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PRASS-NAA/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
