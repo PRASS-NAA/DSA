@@ -18,6 +18,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PRASS-NAA/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/PRASS-NAA/DSA/tree/master/0904-fruit-into-baskets) |
 ## Design
 |  |
 | ------- |
@@ -34,6 +35,7 @@ didnt do anythign tdy sorry,exams this whole week
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASS-NAA/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/PRASS-NAA/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
@@ -155,4 +157,5 @@ didnt do anythign tdy sorry,exams this whole week
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/PRASS-NAA/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/PRASS-NAA/DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
