@@ -140,6 +140,7 @@ didnt do anythign tdy sorry,exams this whole week
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/PRASS-NAA/DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/PRASS-NAA/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -164,4 +165,5 @@ didnt do anythign tdy sorry,exams this whole week
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRASS-NAA/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/PRASS-NAA/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
