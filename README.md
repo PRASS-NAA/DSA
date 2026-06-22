@@ -8,6 +8,7 @@ didnt do anythign tdy sorry,exams this whole week
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASS-NAA/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/PRASS-NAA/DSA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRASS-NAA/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRASS-NAA/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/PRASS-NAA/DSA/tree/master/0048-rotate-image) |
@@ -134,6 +135,7 @@ didnt do anythign tdy sorry,exams this whole week
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PRASS-NAA/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/PRASS-NAA/DSA/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRASS-NAA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRASS-NAA/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -145,6 +147,7 @@ didnt do anythign tdy sorry,exams this whole week
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PRASS-NAA/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/PRASS-NAA/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRASS-NAA/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/PRASS-NAA/DSA/tree/master/0287-find-the-duplicate-number) |
